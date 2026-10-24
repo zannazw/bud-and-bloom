@@ -1,0 +1,6 @@
+docs/testbefunde/
+*.pdf
+*.db
+*.sqlite
+backend/.env
+node_modules/
